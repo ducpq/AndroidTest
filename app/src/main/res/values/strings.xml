@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="appAuthRedirectScheme">com.ducpq.androidtest</string>
+</resources>
